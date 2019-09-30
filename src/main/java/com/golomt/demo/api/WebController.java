@@ -1,4 +1,4 @@
-package com.golomt.demo;
+package com.golomt.demo.api;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
